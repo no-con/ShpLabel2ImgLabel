@@ -2,6 +2,8 @@
 
 基于rasterio和geopandas，实现将Shapefile标注数据转换为与遥感影像像素对齐的图像标签。
 
+![image-20251005215427616](./img/readme-img.png)
+
 ## usage
 
 ```python
